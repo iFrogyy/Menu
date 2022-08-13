@@ -1,0 +1,34 @@
+h1
+{
+font-size: 70px;
+text-align: center;
+font-weight: bold;
+}
+#first
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+p
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;s
+}
+body
+{
+    background: linear-gradient(to right, rgba(252, 239, 63, 0.932), rgb(146, 238, 60))
+}
+#JOS
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+#STR
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
